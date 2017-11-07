@@ -1,4 +1,4 @@
-# Fil rouge - CV / Portfolio
+# Projet CV 
 
 Réaliser une page web CV, reprenant tous les éléments d'un CV classique : parcours professionnel, académique, projets associatifs, compétences, passions et toute autre information que vous jugez utile pour un recruteur.
 
@@ -16,6 +16,17 @@ Réaliser une page web CV, reprenant tous les éléments d'un CV classique : par
 * Dessiner des wireframes de la page et les intéractions possibles
 	* [Guide to wireframing](http://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399)
 
+## Initialisation de l'environnement de travail
+
+* A l'aide de votre terminal généré :
+    * Un dossier "CV" avec :
+        * un fichier "index.html"
+        * un dossier CSS avec :
+            * un fichier "style.css"
+
+Enfin envoyé le tout sur Github
+
+
 ## Html
 * Créer un document Html vide avec les balises
 	* html
@@ -31,7 +42,7 @@ Réaliser une page web CV, reprenant tous les éléments d'un CV classique : par
 
 ## Css
 
-** Une fois les HTML validé par un formateur : **
+** Une fois le HTML validé par un formateur : **
 
 * Ajouter du CSS pour enjoliver le site :
 	* aligner correctement les éléments
