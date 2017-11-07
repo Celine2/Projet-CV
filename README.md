@@ -24,11 +24,11 @@ Réaliser une page web CV, reprenant tous les éléments d'un CV classique : par
         * un dossier CSS avec :
             * un fichier "style.css"
 
-Enfin envoyé le tout sur Github
-
-
 ## Html
-* Créer un document Html vide avec les balises
+
+** Une fois le tout sur Github**
+
+* Rajouter à votre fichier "index.html" :
 	* html
 	* head
 		* title
@@ -39,10 +39,10 @@ Enfin envoyé le tout sur Github
 	* corps de page
 	* pied de page
 	* ... tout le reste
-
+	
 ## Css
 
-** Une fois le HTML validé par un formateur : **
+**Une fois le HTML validé par un formateur :**
 
 * Ajouter du CSS pour enjoliver le site :
 	* aligner correctement les éléments
