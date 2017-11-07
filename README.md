@@ -26,7 +26,7 @@ Réaliser une page web CV, reprenant tous les éléments d'un CV classique : par
 
 ## Html
 
-** Une fois le tout sur Github**
+**Une fois le tout sur Github**
 
 * Rajouter à votre fichier "index.html" :
 	* html
